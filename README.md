@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lifting Others</h1>
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
 <h3 align="center"></h3>
-<img align="right" src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/coding.gif" alt="coding" width="450" />
+<img align="right" src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/coding.gif" alt="coding" width="400px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LiftingOthers&label=Profile%20views&color=0e75b6&style=flat" alt="LiftingOthers" /> </p>
 
