@@ -1,5 +1,4 @@
-
-
+![MasterHead](https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Lifting Others</h1>
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
 <h3 align="center"></h3>
