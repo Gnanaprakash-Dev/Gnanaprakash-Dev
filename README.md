@@ -4,7 +4,7 @@
 <h3 align="center"></h3>
 <img align="right" src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/coding.gif" alt="coding" width="440px" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LiftingOthers&label=Profile%20views&color=0e75b6&style=flat" alt="LiftingOthers" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gnanaprakash-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Gnanaprakash-Dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/GnanaprakashDev" target="blank"><img src="https://img.shields.io/twitter/follow/GnanaprakashDev?logo=twitter&style=for-the-badge" alt="GnanaprakashDev" /></a> </p>
 
@@ -22,9 +22,9 @@
 
 <h2 align='left'><i>Connect with me</i>    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif"><img src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif" height="35px" data-canonical-src=https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif" style="max-width: 100%;"> </h2>
 <p align="left">
-<a href="[https://twitter.com/alok_std](https://twitter.com/Lifting_Otherss)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alok_std" height="30" width="40" /></a>
+<a href="[https://twitter.com/GnanaprakashDev](https://twitter.com/GnanaprakashDev)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alok_std" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gnanaprakash-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok verma" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lifting_otherss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_hostel" height="33" width="40" /></a>
+<a href="https://www.instagram.com/salem_prakash_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_hostel" height="33" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCiwaDYQ2VTJqRNa3JszBawg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@liftingothers7724" height="40" width="40" /></a>
 </p>
  
