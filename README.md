@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LiftingOthers&label=Profile%20views&color=0e75b6&style=flat" alt="LiftingOthers" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Lifting_Otherss" target="blank"><img src="https://img.shields.io/twitter/follow/alok_std?logo=twitter&style=for-the-badge" alt="alok_std" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GnanaprakashDev" target="blank"><img src="https://img.shields.io/twitter/follow/@GnanaprakashDev?logo=twitter&style=for-the-badge" alt="@GnanaprakashDev" /></a> </p>
 
 - 🔭 I’m currently working on **something cool**
 
