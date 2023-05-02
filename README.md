@@ -88,17 +88,17 @@
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif"><img src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif" height="35px" data-canonical-src=https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif" style="max-width: 100%;"> 
   <br />
   <h2 align='left'><i>Github Stats</i> <img src="https://raw.githubusercontent.com/Gnanaprakash-Dev/Gnanaprakash-Dev/main/git_star.gif" height="35px" data-canonical-src="https://raw.githubusercontent.com/Gnanaprakash-Dev/Gnanaprakash-Dev/main/git_star.gif" style="max-width: 100%;"/></h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LiftingOthers&show_icons=true&locale=en&layout=compact" alt="alokverma749" width="45%" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.lostgirljourney.vercel.app/api?username=LiftingOthers&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="alokverma749" width="45%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gnanaprakash-Dev&show_icons=true&locale=en&layout=compact" alt="alokverma749" width="45%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.lostgirljourney.vercel.app/api?username=Gnanaprakash-Dev&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="alokverma749" width="45%" /></p>
 
   <br/>
   
   <h2 align='left'><i>Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/LiftingOthers/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LiftingOthers&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+<a href="https://github.com/Gnanaprakash-Dev/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gnanaprakash-Dev&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-<a href="https://github.com/LiftingOthers/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LiftingOthers&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+<a href="https://github.com/Gnanaprakash-Dev/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gnanaprakash-Dev&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
