@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Gnanaprakash</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+developer" </p> 
 <h3 align="center"></h3>
 <img align="right" src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/coding.gif" alt="coding" width="440px" />
 
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently working on **MERN stack**
 
 - 💬  I would love to talk about **open source and accessibility.**
 
-- 👨‍💻  Ask me about **Full Stack Web Developer.**
+- 👨‍💻  Ask me about **Full Stack Developer.**
 
 - 📫 How to reach me **salemprakash921@gmail.com**
 
